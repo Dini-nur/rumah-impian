@@ -1,0 +1,187 @@
+/* Section 1 */
+
+.section1{
+    background: linear-gradient(112.9deg, #048853 0.98%, rgba(0, 0, 0, 0.84) 165.36%);
+    height: 768px;
+}
+
+.bg-nav{
+    background: linear-gradient(112.9deg, #048853 0.98%, rgba(0, 0, 0, 0.84) 165.36%);
+}
+
+.active{
+    font-weight: bold !important;
+}
+
+.text-primary{
+    color: #048853 !important;
+}
+
+.btn-link{
+    text-decoration: none !important;
+}
+
+.cover-bg-img{
+    position: absolute;
+}
+
+.text-header{
+    position: relative;
+    height: 768px;
+}
+
+.big-title{
+    font-size: 52px;
+}
+
+/* Section 2 */
+
+.section2{
+    background-color: #F3FFF4;
+}
+
+.circle-layanan{
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+}
+
+.box-layanan{
+    width: 380px;
+    height: 313px;
+    border-radius: 5px;
+}
+
+.box-layanan:hover{
+    background: linear-gradient(124.64deg, #00985B 0%, #000000 186%);
+    color: #FFFFFF;
+    .circle-layanan{
+        background-color: #FFFFFF;
+    }
+
+    .sl{
+        color: #FFFFFF !important;
+    }
+}
+
+.bg-bl{
+    background: linear-gradient(124.64deg, #00985B 0%, #000000 186%);
+    color: #FFFFFF;
+}
+
+.bg-hijau{
+    background-color: #00985B;
+}
+
+/* Section 3 */
+
+.section3{
+    background-image: url("../Images/bg-sec3.png");
+    background-size:cover;
+    background-position: bottom;
+    height: 100vh;
+}
+
+.big-title-sec3{
+    font-size: 48px;
+}
+
+.small-title-sec3{
+    font-size: 24px;
+}
+
+.btn-transparent{
+    background: #FFFFFF99;
+    border: none;
+    padding: 5px 15px;
+}
+
+.transparent-active{
+    background: #FFFFFFCC !important;
+}
+
+.filt{
+    width: 845px;
+    height: 88px;
+}
+
+.search-filt{
+    background: none;
+    width: 570px;
+    border: none;
+}
+
+.btn-sec3{
+    border: none;
+    background-color: #00985B;
+    color: #FFFFFF;
+    width: 135px;
+}
+
+/* Section 4 */
+
+.section4{
+    background-color: #F3FFF4;
+}
+
+.icon-fiture{
+    width: 25px;
+    height: 25px;
+}
+
+.card-rumah:hover{
+    background: linear-gradient(150.86deg, #00985B -2.67%, #00985B 56.48%, #000000 113.25%);
+    .hov{
+        color: #FFFFFF;
+    }
+}
+
+.card-active{
+    background: linear-gradient(150.86deg, #00985B -2.67%, #00985B 56.48%, #000000 113.25%);
+}
+
+/* Section 5 */
+
+.section5{
+    background-color: #F3FFF4;
+}
+
+.btn-primary{
+    background-color: #00985B !important;
+    border: none;
+}
+
+/* Section 6 */
+
+.section6{
+    background-image: url("../Images/bg-sec6.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.sec-6{
+    background-color: #000000a6 !important;
+    height: 100vh;
+}
+
+.icon-kontak{
+    width: 24px;
+    height: 24px;
+}
+
+.input-sec6 input{
+    width: 485px;
+    height: 75px;
+    border: none;
+    margin-bottom: 15px;
+}
+
+.btn-sec6{
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 24px;
+}
+
+.input-6{
+    background-color: #C4C4C4;
+}
